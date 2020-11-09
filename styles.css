@@ -1,0 +1,54 @@
+body{
+    margin-top: 10%;
+    margin-left: 30%;
+    text-align: center;
+    border: 2px solid;
+    height: 50%;
+    width: 30%;
+    padding: 8px;
+}
+
+.font{
+
+    font-family: 'Syne Mono', monospace;
+
+}
+
+span{
+
+    display: inline-block;
+    margin: 10px;
+
+}
+
+#add{
+
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+
+}
+
+#sub{
+
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+
+}
+
+#mul{
+
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+
+}
+
+#div{
+
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+
+}
